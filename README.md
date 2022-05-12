@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Jordanc8404@gmail.com**
 
-- ⚡ Fun fact **I love movies...like REALLY love movies!**
+- ⚡ Fun fact **I love movies and traveling with my family!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
