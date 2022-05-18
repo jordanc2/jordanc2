@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker & PostgreSQL**
 
-- 🔭 I aspire to learn **React | Material UI | Node.js
+- 🔭 I aspire to learn **React | Material UI | Node.js**
 
 - 💬 Ask me about **why pineapple is the best pizza topping**
 
