@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **why pineapple is the best pizza topping**
 
-- 📫 How to reach me **Jordanc8404@gmail.com**
-
 - ⚡ Fun fact **I love movies and traveling with my family!**
 
 ## Languages and Tools:
