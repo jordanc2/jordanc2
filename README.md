@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> <img src="https://komarev.com/ghpvc/?username=jordanc2&label=Profile%20views&color=0e75b6&style=flat" alt="jordanc2" /> </p>
 
-- 🌱 I’m currently learning **Docker & PostgreSQL**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 🔭 I aspire to learn **React | Material UI | Node.js**
 
